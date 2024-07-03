@@ -12,7 +12,7 @@ In this technical assessment, you will implement a method to calculate the prora
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Talented-Engineers/dotnet-prorated-subscription-public
+git clone https://github.com/Talented-Engineers/dotnet-prorated-subscription-public.git
 ```
 
 ### Open Solution
