@@ -1,4 +1,4 @@
-# CSharp Prorated Subscription Technical Assessment
+# .NET Prorated Subscription Technical Assessment
 
 In this technical assessment, you will implement a method to calculate the prorated subscription amount based on the provided date and subscription amount.
 
